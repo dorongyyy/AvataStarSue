@@ -32,7 +32,7 @@ font-size: 0;
 
 .back{
     width: 100%;
-    height: 5000px;
+    height: 6500px;
     background-color: #FEABEA;
 }
 
@@ -256,4 +256,15 @@ font-size: 0;
     padding-top: 55px;
     width: 340px;
     height: 574px;
+}
+
+.gox1{
+    width: 100%;
+    height: 416px;
+    background-color: #FEABEA;
+
+}
+
+.uxu1{
+    padding-left: 91px;
 }
